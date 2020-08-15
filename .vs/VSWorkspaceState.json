@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MusicStoreSites.UI.MVC",
+    "\\MusicStoreSites.UI.MVC\\Controllers",
+    "\\MusicStoreSites.UI.MVC\\Models",
+    "\\MusicStoreSites.UI.MVC\\Views",
+    "\\MusicStoreSites.UI.MVC\\Views\\Cart"
+  ],
+  "SelectedNode": "\\MusicStoreSites.UI.MVC\\Controllers\\CartController.cs",
+  "PreviewInSolutionExplorer": false
+}
